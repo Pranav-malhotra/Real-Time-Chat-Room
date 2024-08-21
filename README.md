@@ -29,10 +29,4 @@ To run the chat system locally, follow these steps:
 3. Start the server: `npm start`
 4. Access the chat system in your web browser: `http://localhost:3000`
 
-## Contributions
 
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code as per the terms of the license.
